@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "php",
+			"path": "."
+		},
+		{
+			"name": "php2",
+			"path": "../php2"
+		}
+	],
+	"settings": {}
+}
