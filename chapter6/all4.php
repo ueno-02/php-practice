@@ -14,6 +14,7 @@ foreach ($pdo->query('select * from product') as $row) {
 	echo '<td>', $row['name'], '</td>';
 	echo '<td>', $row['price'], '</td>';
 	echo '</tr>';
+	// ソースコード上の改行
 	echo "\n";
 }
 ?>
